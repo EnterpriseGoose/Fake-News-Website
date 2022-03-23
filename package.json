@@ -1,0 +1,21 @@
+{
+  "name": "civics-project-news-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": "true",
+  "scripts": {
+    "dev": "next dev -p 4400",
+    "build": "next build",
+    "start": "next start -p 4400"
+  },
+  "dependencies": {
+    "autoprefixer": "10.2.5",
+    "axios": "^0.21.1",
+    "framer-motion": "4.1.13",
+    "next": "10.2.0",
+    "postcss": "8.2.14",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "tailwindcss": "^2.1.2"
+  }
+}
